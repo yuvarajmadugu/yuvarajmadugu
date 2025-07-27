@@ -23,7 +23,7 @@
 ### Sofware engineer Intern  
 **Turtil, Hyderabad**  
 *May 2025 - July 2025*
-- Worked and developed AI-based Engagement Insight Engine using Python and Machine
+- Worked and developed AI-based Engagement Insight Engine using Python and Machine Learning models to generate personalized user nudges based on behavioural data.
 - Developed models to generate personalized user nudges based on behavioural data.
 - Built FastAPI and software modules integrating AI-driven insights into end-user application.
 - Contributed to create clean, production-ready code with logging and accurate model evaluation reports with fully offline Dockerized microservice with Swagger UI documentation.
