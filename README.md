@@ -19,8 +19,8 @@
 
 ---
 
-## 👨🏻‍💻Experience
-### Sofware engineer Intern  
+### 👨🏻‍💻Experience
+## Sofware engineer Intern  
 **Turtil, Hyderabad**  
 *May 2025 - July 2025*
 - Worked and developed AI-based Engagement Insight Engine using Python and Machine Learning models to generate personalized user nudges based on behavioural data.
@@ -94,6 +94,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajmadugu&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 ## 🎓 Education  
 
 ### Bachelor of Engineering  
@@ -101,6 +103,19 @@
 - **Bachelor in Artificial Intelligence and Machine Learning**  
 - **CGPA:** **8.05**
 
+---
+
+### 🏆 Achievements & Certifications
+- **🎯 Finalist – VANSH 2K25 VHACKATHON**  
+  *Our team secured a place among the Top 5 teams out of 140 co-participant teams in the VHACKATHON, organized as part of the VANSH 2K25 event by Vignan Institute of technology and sciences.*   
+  [View Credentials](https://drive.google.com/file/d/1TkYx9hvbC_EH9c6yFqhkEfc0pp-evHrx/view?usp=drivesdk)
+- **📜 TCS iON Career Edge – Young Professional**  
+  *Completed the career development course by TCS iON.*  
+  [View Credentials](https://drive.google.com/file/d/1stDhRjPWt7fwnsxJKBR7TPkQZ2CiP0x4/view?usp=drivesdk)
+  
+---
+
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvarajmadugu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvarajmadugu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yuvarajmadugu.github.io/Portfolio/)
