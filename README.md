@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajmadugu&layout=compact&theme=tokyonight" />
 </p>
 
-## Education  
+## 🎓 Education  
 
 ### Bachelor of Engineering  
 **Kommuri Pratap Reddy Institute of Technology, Hyderabad, India** *(10/2022 - Present)*  
