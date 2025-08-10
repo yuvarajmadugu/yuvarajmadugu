@@ -8,6 +8,7 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 Final-year student passionate about **Artificial Intelligence, Machine Learning, and Web Development**
 - 🔭 I’m currently working on **Engagement Insight Engine**
 - 🌱 Currently learning **Data Structures & Algorithms with Java**
 - 🤝 Looking for **Opportunity in reputed organization**
