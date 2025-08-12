@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj Madugu</h1>
 <h3 align="center">👨‍💻 Aspiring Developer | 🤖 AI/ML Explorer | 🌱 Open Source Learner | 🔧 Building & Learning</h3>
 
-<img align="right" alt="Coding" width="451" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
 ---
+
+<img align="right" alt="Coding" width="451" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 👨‍💻 About Me
 
@@ -16,6 +16,7 @@
 - 💬 Ask me about: **Java, Python, SQL**
 - 📫 Reach me at: **yuvarajmadugu@gmail.com**
 - 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1jee5p2gazB4KKYaKPCAJ5Y-naEohCfQZ/view?usp=drivesdk)**
+- 💻 Portfolio: **[Live Link](https://yuvarajmadugu.github.io/Portfolio/)**
 - ⚡ **Fun Fact**: I debug better at night 🌙
 
 ---
