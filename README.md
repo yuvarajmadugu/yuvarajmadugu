@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="451" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 👨‍💻 About Me
 
