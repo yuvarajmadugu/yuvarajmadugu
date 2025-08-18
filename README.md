@@ -15,7 +15,7 @@
 - 👯 Open to collaborate on **Open-source & Machine Learning projects**
 - 💬 Ask me about: **Java, Python, SQL**
 - 📫 Reach me at: **yuvarajmadugu@gmail.com**
-- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1jee5p2gazB4KKYaKPCAJ5Y-naEohCfQZ/view?usp=drive_link)**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1yUR0CR6dXkP_U_ViHzp4s9m_zf_7H0rG/view?usp=drive_link)**
 - 💻 Portfolio: **[Live Link](https://yuvarajmadugu.github.io/Portfolio/)**
 - ⚡ **Fun Fact**: I debug better at night 🌙
 
