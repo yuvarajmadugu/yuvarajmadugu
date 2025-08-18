@@ -25,7 +25,7 @@
 ## Sofware engineer Intern  
 **Turtil, Hyderabad**  
 *May 2025 - July 2025*
-**[Internship Competition Certificate](https://drive.google.com/file/d/14HF5Y8qi5G1aDwAKTAhX3b8hkyXEkqWl/view?usp=drivesdk)**
+- **[Internship Competition Certificate](https://drive.google.com/file/d/14HF5Y8qi5G1aDwAKTAhX3b8hkyXEkqWl/view?usp=drivesdk)**
 - Worked and developed AI-based Engagement Insight Engine using Python and Machine Learning models to generate personalized user nudges based on behavioural data.
 - Developed models to generate personalized user nudges based on behavioural data.
 - Built FastAPI and software modules integrating AI-driven insights into end-user application.
