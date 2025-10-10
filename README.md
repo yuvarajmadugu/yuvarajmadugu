@@ -16,7 +16,7 @@
 - 💬 Ask me about: **Java, Python, SQL**
 - 📫 Reach me at: **yuvarajmadugu@gmail.com**
 - 📄 Resume: **[View My Resume](https://drive.google.com/file/d/11B24t_bqaXyppQcozrKURloG6rIhsT4_/view?usp=drivesdk)**
-- 💻 Portfolio: **[Live Link](https://yuvarajmadugu.github.io/Portfolio/)**
+- 💻 Portfolio: **[Live Link](https://yuvarajmadugu.github.io/PortfolioWebsite/)**
 - ⚡ **Fun Fact**: I debug better at night 🌙
 
 ---
