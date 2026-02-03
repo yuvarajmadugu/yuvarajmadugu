@@ -4,9 +4,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
 ### 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="435" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🎓 Final-year AIML 2026 student passionate about **Building Java Projects, Artificial Intelligence, Machine Learning, and Web Development**
 - 🔭 Currently working on **Signal quality assessment for optical communications**
