@@ -8,8 +8,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year student passionate about **Artificial Intelligence, Machine Learning, and Web Development**
-- 🔭 I’m currently working on **Engagement Insight Engine**
+- 🎓 Final-year AIML 2026 student passionate about **Building Java Projects, Artificial Intelligence, Machine Learning, and Web Development**
+- 🔭 Currently working on **Signal quality assessment for optical communications**
+- 🧠 Building hands-on experiences on **Backend Java Core and Advanced concepts and involoving in AIML contributions**
 - 🌱 Currently learning **Data Structures & Algorithms with Java**
 - 🤝 Looking for **Opportunity in reputed organization**
 - 👯 Open to collaborate on **Open-source & Machine Learning projects**
@@ -17,7 +18,6 @@
 - 📫 Reach me at: **yuvarajmadugu@gmail.com**
 - 📄 Resume: **[View My Resume](https://drive.google.com/file/d/11B24t_bqaXyppQcozrKURloG6rIhsT4_/view?usp=drivesdk)**
 - 💻 Portfolio: **[Live Link](https://yuvarajmadugu.github.io/PortfolioWebsite/)**
-- ⚡ **Fun Fact**: I debug better at night 🌙
 
 ---
 
@@ -60,7 +60,9 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -109,7 +111,7 @@
 ### Bachelor of Engineering  
 **Kommuri Pratap Reddy Institute of Technology, Hyderabad, India** *(10/2022 - Present)*  
 - **Bachelor in Artificial Intelligence and Machine Learning**  
-- **CGPA:** **8.05**
+- **CGPA:** **8.13**
 
 ---
 
@@ -126,4 +128,4 @@
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvarajmadugu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvarajmadugu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yuvarajmadugu.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yuvarajmadugu.github.io/PortfolioWebsite/)
