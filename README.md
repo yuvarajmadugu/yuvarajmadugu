@@ -111,7 +111,6 @@
 ### Bachelor of Engineering  
 **Kommuri Pratap Reddy Institute of Technology, Hyderabad, India** *(10/2022 - Present)*  
 - **Bachelor in Artificial Intelligence and Machine Learning**  
-- **CGPA:** **8.13**
 
 ---
 
