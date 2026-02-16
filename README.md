@@ -17,7 +17,7 @@
 - 💬 Ask me about: **Java, Python, SQL**
 - 📫 Reach me at: **yuvarajmadugu@gmail.com**
 - 📄 Resume: **[View My Resume](https://drive.google.com/file/d/10hozx9_3Pn4ZVaaggaurs0Iua24pt9Ik/view?usp=sharing)**
-- 💻 Portfolio: **[Live Link](https://yuvarajmadugu.github.io/PortfolioWebsite/)**
+- 💻 Portfolio: **[Live Link](https://yuvarajmadugu-portfolio3-0.vercel.app/)**
 
 ---
 
